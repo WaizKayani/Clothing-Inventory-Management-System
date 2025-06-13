@@ -15,7 +15,7 @@ Well-documented, readable code following Java best practices and design patterns
 
 **Tech Stack**
 
-Java 17
-JUnit 5
-VSCode with Java development extensions
+Java 17,
+JUnit 5,
+VSCode with Java development extensions,
 Custom library management via lib/ directory
